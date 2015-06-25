@@ -4,17 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-yelp-AFNetworking.xcscheme</key>
+		<key>Pods-food-AFNetworking.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-yelp-BDBOAuth1Manager.xcscheme</key>
+		<key>Pods-food-BDBOAuth1Manager.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-yelp.xcscheme</key>
+		<key>Pods-food.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -22,17 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>193BE1D5ED7F6D589F0692B2</key>
+		<key>127E311191ADB9782220ADAA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4BF869FDCDB91C5098DD9FC7</key>
+		<key>4CB7D3E2881E9AC348EAA3CE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D928510237BD765B95D8D7C3</key>
+		<key>AF266CA513B798B04662DBCC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
